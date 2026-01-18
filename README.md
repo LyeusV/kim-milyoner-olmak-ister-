@@ -35,4 +35,9 @@ The interface was designed back in 2021 during high school. While it follows a r
   <img src="Screenshots/mainMenu.png" width="400" title="Main Menu">
   <img src="Screenshots/gameScreen.png" width="400" title="Game Play">
   <img src="Screenshots/adminPanelLogin.png" width="400" title="Admin Login">
+  <img src="Screenshots/databaseQuestionPanel.png" width="400" title="Question Panel">
+  <img src="Screenshots/databaseEditPanel.png" width="400" title="Edit Panel">
+  <img src="Screenshots/databaseBackupPanel.png" width="400" title="Database Panel">
+  <img src="Screenshots/usersPanel.png" width="400" title="Users Panel">
+  <img src="Screenshots/databaseRandomPanel.png" width="400" title="Random Question Panel">
 </p>
