@@ -28,3 +28,11 @@ This application is a digital adaptation of the world-famous "Who Wants to Be a 
 1. Clone the repository:
    ```bash
    git clone [https://github.com/LyeusV/kim-milyoner-olmak-ister-.git](https://github.com/LyeusV/kim-milyoner-olmak-ister-.git)
+### 🎨 UI/UX Note
+The interface was designed back in 2021 during high school. While it follows a retro aesthetic, it represents my early steps into UI design and event-driven programming.
+## 📸 Screenshots
+<p align="center">
+  <img src="Screenshots/mainMenu.png" width="400" title="Main Menu">
+  <img src="Screenshots/gameScreen.png" width="400" title="Game Play">
+  <img src="Screenshots/adminPanelLogin.png" width="400" title="Admin Login">
+</p>
